@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as System administration/Frontend Developer
 - 🌱 I’m currently learning Security stuff
 - ⚡ Fun fact: Do I really have to say that I LOVE COFFEE?
-- - 👯 I’m looking to collaborate on Open Source
+- 👯 I’m looking to collaborate on Open Source
 
 <!--
 **Liiuc/Liiuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
