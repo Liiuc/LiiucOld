@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: luca.besso27@gmail.com
 - 🔭 I’m currently working as System administration/Frontend Developer
-- 🌱 I’m currently learning Security stuff
+- 🌱 I’m currently learning cryptocurrency stuff
 - ⚡ Fun fact: Do I really have to say that I LOVE COFFEE?
 - 👯 I’m looking to collaborate on Open Source
 
