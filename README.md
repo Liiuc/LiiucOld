@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📫 How to reach me: luca.besso27@gmail.com
-- 🔭 I’m currently working as System administration/Frontend Developer
-- 🌱 I’m currently learning Blockchain
+- 🔭 I’m currently working as System administration and Full stack developer  
+- 🌱 I’m currently improving my knowledge about Blockchain and Cryptography
 - ⚡ Fun fact: Do I really have to say that I LOVE COFFEE?
 
 
